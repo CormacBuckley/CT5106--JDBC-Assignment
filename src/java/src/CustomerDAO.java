@@ -23,7 +23,7 @@ public class CustomerDAO{
     
     private static final String dbURL = "jdbc:mysql://mysql1.it.nuigalway.ie:3306/mydb3380";
     private static final String username = "mydb3380bc";
-    private static final String password = "qi3rew";
+    private static final String password = "";
 
 
     public Customer getCustomer(int id)
